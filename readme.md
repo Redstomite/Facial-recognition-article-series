@@ -7,3 +7,4 @@ Second Article:
 https://medium.com/analytics-vidhya/facial-recognition-for-kids-of-all-ages-part-2-3281084091de
 
 Third Article:
+https://medium.com/analytics-vidhya/facial-recognition-for-kids-of-all-ages-part-3-1084be049bf2
